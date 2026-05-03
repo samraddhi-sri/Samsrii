@@ -1,6 +1,6 @@
 Hi, I’m Smraddhi! 👋
 
-- 🎓 2nd-year BCA student passionate about backend & full-stack development.
+- 🎓 3nd-year BCA student passionate about backend & full-stack development.
 - ⚙️ Exploring Node.js, Express.js, and NestJS for scalable web apps.
 - 🧩 Love integrating frontend & backend for seamless user experiences.
 - 🧠 Learning JavaScript, async programming, & experimenting with ML (text classification).
